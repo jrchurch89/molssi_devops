@@ -11,6 +11,11 @@ Math
 
 Copyright (c) 2019, Jonathan Church
 
+This repository is currently under development. To do a developmental install, download this repository and type
+
+`pip install -e .`
+
+in the repository directory.
 
 #### Acknowledgements
  
